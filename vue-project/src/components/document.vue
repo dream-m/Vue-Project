@@ -1,9 +1,9 @@
 <template>
     <el-row class="center">
-        <el-link href="https://element.eleme.io" :underline="false" target="_blank">主页</el-link>
-        <el-link href="https://element.eleme.io" :underline="false" target="_blank">Github 地址</el-link>
-        <el-link href="https://element.eleme.io" :underline="false" target="_blank">个人中心</el-link>
-        <el-link href="https://element.eleme.io" :underline="false" target="_blank">文档</el-link>
+        <el-link href="https://element.eleme.io" :underline="false" target="_blank">文档主页</el-link>
+        <el-link href="https://github.com/dream-m/Vue-Project/tree/master/vue-project" :underline="false" target="_blank">Github 地址</el-link>
+        <el-link href="https://element.eleme.cn/#/zh-CN/guide/design" :underline="false" target="_blank">文档指南</el-link>
+        <el-link href="https://element.eleme.cn/#/zh-CN/component/installation" :underline="false" target="_blank">文档组件</el-link>
     </el-row>
 </template>
 
