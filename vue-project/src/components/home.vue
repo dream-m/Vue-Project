@@ -53,7 +53,7 @@
                             </span>
                             <el-dropdown-menu slot="dropdown" class="dropdown-list">
                                 <el-dropdown-item><router-link  :to="{path:'/info'}" class="info">个人中心</router-link></el-dropdown-item>
-                                <el-dropdown-item><router-link :to="{path:'/info'}" class="info">项目地址</router-link></el-dropdown-item>
+                                <el-dropdown-item><a href="https://github.com/dream-m/Vue-Project/tree/master/vue-project" class="info" target="_blank">项目地址</a></el-dropdown-item>
                                 <el-dropdown-item><router-link :to="{path:'/'}"  class="info">退出登录</router-link></el-dropdown-item>
                             </el-dropdown-menu>
                         </el-dropdown>
